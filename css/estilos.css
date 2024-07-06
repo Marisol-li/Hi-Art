@@ -379,3 +379,16 @@ h3 {
   color: #fff; 
   border: none; 
 }
+
+   /* Media Query para dispositivos pequeños */
+@media (max-width: 768px) {
+    /* Ajustes específicos para dispositivos pequeños */
+    /* Por ejemplo, cambios en el tamaño de fuente o márgenes */
+}
+
+/* Media Query para dispositivos medianos */
+@media (min-width: 768px) and (max-width: 992px) {
+    /* Ajustes específicos para dispositivos medianos */
+    /* Por ejemplo, cambios en la disposición de elementos o tamaños de imágenes */
+}
+
